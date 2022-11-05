@@ -34,3 +34,6 @@ note={
   }
 }
 ```
+# Sources
+https://github.com/ecrows/cliche500 
+https://github.com/leereilly/list-of-english-cliches
